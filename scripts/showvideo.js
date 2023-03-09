@@ -1,4 +1,12 @@
 let API_KEY = "AIzaSyAjQhmvgUl_gT3Tz8wk06-E4sERAaBqoaY";
+let API_KEY = "AIzaSyCO43SCw8o4VrTC72M0wdgr8Sshov4-sZI";
+let API_KEY = "AIzaSyAblinAxL4_M8EW2EZdeFVyiNV238ioFAY";
+let API_KEY = "AIzaSyDNZBDmYooRfOzZI31DvFh2GGrcoxuWNXw";
+let API_KEY = "AIzaSyDeEu_SyZRpCY52pZv5AMkNLVMSl-BY5pE";
+let API_KEY = "AIzaSyBM75GfcrEbkNqXDHJ99TtVwqtwMp9R62s";
+let API_KEY = "AIzaSyDNNC7tbd8qj0oXl2Qzo3SJpWFXCyuiznc";
+let API_KEY = "AIzaSyAMdROKeeHU7tf4tRN-IU8Sl5HLowoQgf4";
+let API_KEY = "AIzaSyC0u6BRsbIZt3Y-A1L1pFVpulI4jxx7TCs";
 let state = window.localStorage.getItem('selectApi') ? window.localStorage.getItem('selectApi') : "1";
 
 export const apiKeys = [
